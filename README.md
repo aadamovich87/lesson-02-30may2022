@@ -48,3 +48,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # lesson-02-30may2022
 # lesson-02-30may2022
 # Microtaski-05-Assoativ-massive
+# Microtaski-05-Assoativ-massive
